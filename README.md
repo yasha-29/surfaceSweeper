@@ -6,3 +6,4 @@
    3. import copy
    4. import random
 3. The fastest way to test the main features of the app is to press ‘PLAY GAME’ from the main menu, choose ‘4’ for dimension and ‘6’ for mine count, and press ‘PLAY.’ At this point, the loss scenario can be achieved by pressing ‘Reveal Mines.’ The win scenario should be very easy to achieve, because only one mine is used per face. Press the spacebar to flag mines in the 6 obvious locations. The ‘Directions’ screen is accessible from the main menu. Press ‘New Game’ to verify the random cube generation works as intended.
+4. Watch a short [video demo](﻿www.youtube.com/watch?v=4L4Lw6IbYbw&ab_channel=JacobBraginsky) of the project in action.
